@@ -13,6 +13,6 @@ def run_guessing_game
       puts "The computer guessed #{comp_rand}"
     else
       puts "Invalid input"
-
+    end
   end
 end
