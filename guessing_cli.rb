@@ -11,7 +11,6 @@ def run_guessing_game
       puts "You guessed the correct number!"
     elsif guess.to_i != comp_rand
       puts "The computer guessed #{comp_rand}"
-      
+
   end
 end
-
