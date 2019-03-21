@@ -1,7 +1,7 @@
 # Code your solution here!
 # def run_guessing_game
 #   loop do
-#     puts "Guess a random number between 1 and 6"
+#     puts "Guess a number between 1 and 6."
 #     guess = gets.chomp
 #     comp_rand = rand(1..6)
 #     if guess = "exit"
